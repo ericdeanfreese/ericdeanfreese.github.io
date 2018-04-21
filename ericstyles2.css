@@ -1,0 +1,69 @@
+* {
+  font-family: helvetica, arial, sans-serif;
+}
+
+ul {
+  font-family: helvetica, arial, sans-serif;
+  color: darkgreen;
+  line-height: 25px;
+}
+
+a {
+  color: olive;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gold;
+}
+
+.topimage {
+  width: 100%;
+  border: 10px;
+  border-color: darkgreen;
+
+}
+header {
+  color: white;
+  margin-top: -74px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 30px;
+  line-height: 20px;
+  font-weight: 900;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+footer {
+  color: darkgreen;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 12px;
+}
+
+nav {
+  color: darkgreen;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-style: bold;
+
+}
+
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+section {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+aside {
+  margin-left: 40px;
+  margin-right: 40px;
+}

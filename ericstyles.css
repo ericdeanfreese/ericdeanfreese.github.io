@@ -1,0 +1,85 @@
+* {
+  font-family: helvetica, arial, sans-serif;
+}
+
+ul {
+  font-family: helvetica, arial, sans-serif;
+  color: darkgreen;
+  line-height: 25px;
+}
+
+a {
+  color: olive;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gold;
+}
+
+.topimage {
+  width: 100%;
+  border: 10px;
+  border-color: darkgreen;
+
+}
+header {
+  color: white;
+  margin-top: -74px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 30px;
+  line-height: 20px;
+  font-weight: 900;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+footer {
+  color: darkgreen;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 12px;
+}
+
+nav {
+  color: darkgreen;
+  padding-left: 40px;
+  font-style: bold;
+  display: inline-block;
+  width: 150px;
+  vertical-align: top;
+
+}
+
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+section {
+  width: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+aside {
+  margin-left: 5px;
+  margin-right: 4px;
+  display: inline-block;
+  width: 150px;
+  vertical-align: top;
+  line-height: 40px;
+  font-style:italic;
+}
